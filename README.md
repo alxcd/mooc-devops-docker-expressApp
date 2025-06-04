@@ -1,3 +1,3 @@
 ## express app
 
-Access with browser https://alxcd-express-app.azurewebsites.net/
+Access with browser http://localhost:8080
